@@ -1,8 +1,15 @@
-# Hangman Game
+# Hangman Game 
 
 ## Description
 
 The Hangman game is a word-guessing game with origins dating back to Victorian times, as mentioned by Tony Augarde, the author of "The Oxford Guide to Word Games." It's also known as "Birds, Beasts and Fishes" in Alice Bertha Gomme's "Traditional Games" from 1894. In various sources, it's referred to as "Gallows," "The Game of Hangin," or "Hanger."
+
+This project is a Python implementation of the classic game "Hangman." It allows players to guess a randomly selected word within a limited number of chances. This project demonstrates Python programming concepts and showcases coding skills.
+
+## Course Details
+
+- **Course Name:** Python
+- **Course Description:** This project is a part of Python Internship, which covers various Python programming concepts, including data structures, loops, conditional statements, and file handling. The Hangman project demonstrates the practical application of these concepts.
 
 ## Implementation Steps
 
@@ -30,5 +37,4 @@ The Hangman game uses a predefined list of words. You can expand this list with 
 2. Ensure you have Python installed (Python 3 is recommended).
 3. Open a terminal or command prompt and navigate to the project directory.
 4. Run the Hangman game using the command `python hangman.py`.
-
-Enjoy playing the Hangman game and challenge your word-guessing skills!
+5. Enjoy playing the Hangman game and challenge your word-guessing skills!
